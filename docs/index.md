@@ -1,5 +1,5 @@
 ---
-title: Geschar Docs (index)
+title: Geschar Docs
 ---
 
 # Gescharとは
