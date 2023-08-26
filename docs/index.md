@@ -1,5 +1,5 @@
 ---
-title: Geschar Docs
+title: Geschar
 ---
 
 # Gescharについて
