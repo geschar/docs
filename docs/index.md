@@ -236,13 +236,17 @@ Ver.1.4.0より、設定 > 操作の設定 > ジェスチャのカスタマイ�
   - その板に訪れたことがあることを表します。24時間以内に訪れた板にはマークに色がつきます。
 
 <details>
-<summary><h2>Test</h2></summary>
+<summary><h2 style="display:inline;">Test</h2></summary>
 
-### Heading
-- Foo
-- Bar
-  - Baz
-  - Qux
+<h3>Heading</h3>
+<ul>
+<li>Foo
+<li>Bar
+  <ul>
+  <li>Baz
+  <li>Qux
+  </ul>
+</ul>
 </details>
 
 ## アップデート履歴
