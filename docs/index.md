@@ -240,11 +240,11 @@ Ver.1.4.0より、設定 > 操作の設定 > ジェスチャのカスタマイ�
 
 <h3>Heading</h3>
 <ul>
-<li>Foo
-<li>Bar
+<li>Foo</li>
+<li>Bar</li>
   <ul>
-  <li>Baz
-  <li>Qux
+  <li>Baz</li>
+  <li>Qux</li>
   </ul>
 </ul>
 </details>
